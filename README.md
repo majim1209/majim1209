@@ -1,7 +1,7 @@
 # Introduce 
 
 * I'm Deoksoo Kim, from Republic of Korea, and living in Ansan, Gyeonggi-do.
-* I'm in Seoul Institute of the Arts (서울예술대학교), Broadcasting (방송영상전공). 
+* I'm currently attending Seoul Institute of the Arts (서울예술대학교), Broadcasting (방송영상전공). 
 * I'm interested in developing it, but I don't know how to do it. 🤣
 * I usually plan Minecraft content.
 * I can speak Korean (Primary), English.
@@ -9,7 +9,7 @@
 # Contact
 
 * Email: majim@deoksoo.kim
-* Instagram  https://instagram.com/_deok_duck2
+* Instagram: https://instagram.com/_deok_duck2
 * X (usually known as Twitter): https://twitter.com/majim_iidx
 * Discord: majim_
 
