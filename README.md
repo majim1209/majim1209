@@ -1,10 +1,10 @@
-# Introduce 
+# Introduce 👋
 
-* I'm Deoksoo Kim, from Republic of Korea, and living in Ansan, Gyeonggi-do.
-* I'm currently attending Seoul Institute of the Arts (서울예술대학교), Broadcasting (방송영상전공). 
-* I'm interested in developing it, but I don't know how to do it. 🤣
-* I usually plan Minecraft content.
-* I can speak Korean (Primary), English.
+* I'm Deoksoo Kim, from Republic of Korea.
+* I'm currently studying Broadcasting at Seoul Institute of the Arts.
+* I'm interested in development, but I don't know how to do it. 🤣
+* I mainly plan Minecraft content and enjoy creating creative projects.
+* I can speak Korean (Native), English.
 
 # Contact
 
